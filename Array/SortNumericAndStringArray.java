@@ -1,7 +1,7 @@
 // Import the necessary class from the Java utility library.
 import java.util.Arrays;
 
-// Define a class named Exercise1.
+// Define a class named SortNumericAndStringArray.
 public class SortNumericAndStringArray {
     // The main method where the program execution starts.
     public static void main(String[] args) {
