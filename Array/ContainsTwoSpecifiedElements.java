@@ -5,7 +5,7 @@ import java.util.*;
 // Import the java.io package to use input and output classes.
 import java.io.*;
 
-// Define a class named Exercise32.
+// Define a class named ContainsTwoSpecifiedElements.
 public class ContainsTwoSpecifiedElements {
     // The main method for executing the program.
     public static void main(String[] args) {
